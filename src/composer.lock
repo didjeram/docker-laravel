@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d94319554655210761ba9753e4fd6b51",
+    "content-hash": "60e23c1eb83fc40696a8b583be6b2a72",
     "packages": [
         {
             "name": "aschmelyun/larametrics",
